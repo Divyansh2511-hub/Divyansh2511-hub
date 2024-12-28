@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Divyansh Srivastava, a B.Tech Computer Science (AI & ML) student at Kashi Institute of Technology. I'm passionate about AI, ML, web development, and creative design. I enjoy building impactful projects, from data visualizers to esports dashboards, and experimenting with Python, JavaScript, and Arduino.<br><br>I’m always looking to learn, innovate, and push the boundaries of what's possible with technology.
+I'm Divyansh Srivastava, a B.Tech Computer Science (AI & ML) student at Kashi Institute of Technology. I'm passionate about AI, ML, web development, and creative design. I enjoy building impactful projects, from data visualizers to esports dashboards, and experimenting with Python, JavaScript, and many more.<br><br>I’m always looking to learn, innovate, and push the boundaries of what's possible with technology.
 
 
 ## 🌐 Socials:
